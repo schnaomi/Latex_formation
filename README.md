@@ -1,14 +1,15 @@
 # Latex formation at CBI - 2026/09/23 
 
-### Goal of the formation :
+### Goal of the formation:
 * Short introduction on Latex, Overleaf and PLMLatex
 * Practice on a example for a PhD manuscript or a paper 
 
 ### Description of files in _Example_ folder
-* bib1.bib : example of a reference in a bib file extract from Zotero (or mendeley)
-* logoPLM.png : example of a picture/figure to import in the document (see main.tex) 
-* instructions.pdf : example of a pdf file to import in the document (see main.tex)
-* main.tex : example of a code can be use for make your first document
+* bib1.bib: example of a reference in a bib file extract from Zotero (or mendeley)
+* logoPLM.png: example of a picture/figure to import in the document (see main.tex) 
+* instructions.pdf: example of a pdf file to import in the document (see main.tex)
+* main.tex: example of a code can be use for make your first document (article type)
+* example_of_report.text: example of a code for a PhD manuscript (report type)
 
 ### Use and practice
 1 - Download all files in _Example_  
